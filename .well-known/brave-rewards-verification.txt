@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: don-borito.github.io
-Token: e2f4657338458a3425377b7863d82366c7f22bd1ed3f40d94a513a58ef39aa2d
